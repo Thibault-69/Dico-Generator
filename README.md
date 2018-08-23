@@ -11,4 +11,4 @@ Finally launch the script with this command :
 
 ./dico_gen.py
 
-Follow the instruction its easy, enjoy !!!
+Follow the instructions its very easy, enjoy !!!
